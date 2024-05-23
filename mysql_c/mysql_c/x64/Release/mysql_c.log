@@ -1,0 +1,3 @@
+﻿  mysql_c.cpp
+C:\Users\dave7\Desktop\Tarea conexion\mysql_c\mysql_c\mysql_c.cpp(18,3): error C2065: 'q_estado': identificador no declarado
+C:\Users\dave7\Desktop\Tarea conexion\mysql_c\mysql_c\mysql_c.cpp(19,8): error C2065: 'q_estado': identificador no declarado
